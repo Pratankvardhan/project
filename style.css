@@ -15,7 +15,7 @@ header {
 }
 /*a*/
 .disease{
-    color: #0056b3;
+    color: #0428f7;
 }
 /* Style the logo */
 .logo {
@@ -48,5 +48,5 @@ nav a {
 }
 
 nav a:hover {
-    color: #0056b3; /* Slightly darker blue for hover effect */
+    color: #0e0008; /* Slightly darker blue for hover effect */
 }
